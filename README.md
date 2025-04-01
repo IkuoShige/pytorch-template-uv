@@ -1,12 +1,12 @@
 # pytorch-template-uv
 
-Create virtual environment
+## Create virtual environment
 
 ```sh
 uv sync
 ```
 
-Test Installation
+## Test Installation
 
 ``sh
 uv run test_cuda.py
