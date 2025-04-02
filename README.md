@@ -8,6 +8,6 @@ uv sync
 
 ## Test Installation
 
-``sh
+```sh
 uv run test_cuda.py
 ```
