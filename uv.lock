@@ -245,7 +245,7 @@ wheels = [
 ]
 
 [[package]]
-name = "pytorch-template"
+name = "pytorch-template-uv"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
